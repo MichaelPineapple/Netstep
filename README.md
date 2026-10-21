@@ -1,2 +1,2 @@
-# MclLockstep
+# Netstep
 Lockstep Protocol Server & Client
