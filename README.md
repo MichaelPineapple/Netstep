@@ -1,2 +1,2 @@
-# MclNet
-MclNet
+# MclLockstep
+MclLockstep
